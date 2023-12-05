@@ -1,0 +1,66 @@
+[
+    {    
+    "id":1, "name": "lilly", "meaning":"শাপলা", "photoURL":"", "audioURL":""
+},
+    {
+   "id":2, "name": "rose", "meaning":"গোলাপ", "photoURL":"", "audioURL":""
+},
+    {
+   "id":3, "name": "hibiscus", "meaning":"জবা", "photoURL":"", "audioURL":""
+},
+    {
+   "id":4, "name": "sunflower", "meaning":"সূর‌্যমুখী", "photoURL":"", "audioURL":""
+},
+    {
+   "id":5, "name": "merigold", "meaning":"গাঁদা", "photoURL":"", "audioURL":""
+},
+    {
+   "id":6, "name": "lotus", "meaning":"পদ্ম", "photoURL":"", "audioURL":""
+},
+    {
+   "id":7, "name": "daisy", "meaning":"তারাফুল/ডেইজী", "photoURL":"", "audioURL":""
+},
+    {
+   "id":8, "name": "tulip", "meaning":"টিউলিপ", "photoURL":"", "audioURL":""
+},
+    {
+   "id":9, "name": "butterfly pea", "meaning":"অপরাজিতা", "photoURL":"", "audioURL":""
+},
+    {
+   "id":10, "name": "canna indica", "meaning":"কলাবতী", "photoURL":"", "audioURL":""
+},
+    {
+   "id":11, "name": "burflower", "meaning":"কদম", "photoURL":"", "audioURL":""
+},
+    {
+   "id":12, "name": "china rose", "meaning":"জবা", "photoURL":"", "audioURL":""
+},
+    {
+   "id":13, "name": "gardenia/cape jasmine", "meaning":"গন্ধরাজ", "photoURL":"", "audioURL":""
+},
+    {
+   "id":14, "name": "periwinkle", "meaning":"নয়নতারা", "photoURL":"", "audioURL":""
+},
+    {
+   "id":15, "name": "spanish cherry", "meaning":"বকুল", "photoURL":"", "audioURL":""
+},
+    {
+   "id":16, "name": "royal poinciana/delonix regia?", "meaning":"কৃৃষ্ণচূড়া?", "photoURL":"", "audioURL":""
+},
+    {
+   "id":17, "name": "magnolia champaca/champak", "meaning":"চাঁপা", "photoURL":"", "audioURL":""
+},
+    {
+   "id":18, "name": "cocks comb", "meaning":"মোরগ ফুল", "photoURL":"", "audioURL":""
+},
+    {
+   "id":19, "name": "", "meaning":"", "photoURL":"", "audioURL":""
+},
+    {
+   "id":20, "name": "", "meaning":"", "photoURL":"", "audioURL":""
+},
+    {
+   "id":21, "name": "", "meaning":"", "photoURL":"", "audioURL":""
+}
+   
+]

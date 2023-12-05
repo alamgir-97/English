@@ -1,0 +1,10 @@
+[
+    {    
+    "id":1, "category":"presentIdefiniteTense", "name":"I eat rice.", "meaning":"আমি ভাত খাই।", "photoURL":"/flowers/water lily.png", "audioURL":""
+},
+    {
+   "id":2, "category":"presentIdefiniteTense", "name":"I drink water.", "meaning":"আমি পানি পান করি।", "photoURL":"/public/flowers/burflower.png", "audioURL":""
+}
+    
+   
+]

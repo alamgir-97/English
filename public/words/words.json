@@ -1,0 +1,126 @@
+[
+    {    
+    "id":1, "category":"flowers/ফুল", "name":"lilly", "meaning":"শাপলা", "photoURL":"/flowers/water lily.png", "audioURL":""
+},
+    {
+   "id":2, "category":"flowers/ফুল", "name":"rose", "meaning":"গোলাপ", "photoURL":"/public/flowers/burflower.png", "audioURL":""
+},
+    {
+   "id":3, "category":"flowers/ফুল", "name":"hibiscus", "meaning":"জবা", "photoURL":"/public/flowers/chinarose.png", "audioURL":""
+},
+    {
+   "id":4, "category":"flowers/ফুল", "name":"sunflower", "meaning":"সূর‌্যমুখী", "photoURL":"/public/flowers/burflower.png", "audioURL":""
+},
+    {
+   "id":5, "category":"flowers/ফুল", "name":"merigold", "meaning":"গাঁদা", "photoURL":"/public/flowers/burflower.png", "audioURL":""
+},
+    {
+   "id":6, "category":"flowers/ফুল", "name":"lotus", "meaning":"পদ্ম", "photoURL":"/public/flowers/burflower.png", "audioURL":""
+},
+    {
+   "id":7, "category":"flowers/ফুল", "name":"daisy", "meaning":"তারাফুল/ডেইজী", "photoURL":"/public/flowers/burflower.png", "audioURL":""
+},
+    {
+   "id":8, "category":"flowers/ফুল", "name":"tulip", "meaning":"টিউলিপ", "photoURL":"/public/flowers/burflower.png", "audioURL":""
+},
+    {
+   "id":9, "category":"flowers/ফুল", "name":"butterfly pea", "meaning":"অপরাজিতা", "photoURL":"/public/flowers/burflower.png", "audioURL":""
+},
+    {
+   "id":10, "category":"flowers/ফুল", "name":"canna indica", "meaning":"কলাবতী", "photoURL":"/public/flowers/burflower.png", "audioURL":""
+},
+    {
+   "id":11, "category":"flowers/ফুল", "name":"burflower", "meaning":"কদম", "photoURL":"/public/flowers/burflower.png", "audioURL":""
+},
+    {
+   "id":12, "category":"flowers/ফুল", "name":"china rose", "meaning":"জবা", "photoURL":"/public/flowers/burflower.png", "audioURL":""
+},
+    {
+   "id":13, "category":"flowers/ফুল", "name":"gardenia/cape jasmine", "meaning":"গন্ধরাজ", "photoURL":"/public/flowers/burflower.png", "audioURL":""
+},
+    {
+   "id":14, "category":"flowers/ফুল", "name":"periwinkle", "meaning":"নয়নতারা", "photoURL":"/public/flowers/burflower.png", "audioURL":""
+},
+    {
+   "id":15, "category":"flowers/ফুল", "name":"spanish cherry", "meaning":"বকুল", "photoURL":"/public/flowers/burflower.png", "audioURL":""
+},
+    {
+   "id":16, "category":"flowers/ফুল", "name":"royal poinciana/delonix regia?", "meaning":"কৃৃষ্ণচূড়া?", "photoURL":"/public/flowers/burflower.png", "audioURL":""
+},
+    {
+   "id":17, "category":"flowers/ফুল", "name":"magnolia champaca/champak", "meaning":"চাঁপা", "photoURL":"/public/flowers/burflower.png", "audioURL":""
+},
+    {
+   "id":18, "category":"flowers/ফুল", "name":"cocks comb", "meaning":"মোরগ ফুল", "photoURL":"/public/flowers/burflower.png", "audioURL":""
+},
+    {
+   "id":19, "category":"flowers/ফুল", "name":"", "meaning":"", "photoURL":"/public/flowers/burflower.png", "audioURL":""
+},
+    {
+   "id":20, "category":"animals/প্রাণী", "name":"Royal Bengal tiger", "meaning":"রয়েল বেঙ্গল টাইগার", "photoURL":"/public/flowers/burflower.png", "audioURL":""
+},
+    {
+   "id":21, "category":"animals/প্রাণী", "name":"elephant", "meaning":"হাতি", "photoURL":"/public/flowers/burflower.png", "audioURL":""
+},
+    {
+   "id":22, "category":"animals/প্রাণী", "name":"crocodile", "meaning":"কচ্ছপ", "photoURL":"/flowers/water lily.png", "audioURL":""
+},
+    {
+   "id":23, "category":"animals/প্রাণী", "name":"deer", "meaning":"হরিণ", "photoURL":"/public/flowers/burflower.png", "audioURL":""
+},
+    {
+   "id":24, "category":"animals/প্রাণী", "name":"leopard", "meaning":"চিতাবাঘ", "photoURL":"/public/flowers/burflower.png", "audioURL":""
+},
+    {
+   "id":25, "category":"animals/প্রাণী", "name":"python", "meaning":"অজগর", "photoURL":"/flowers/water lily.png", "audioURL":""
+},
+    {
+   "id":26, "category":"animals/প্রাণী", "name":"langur", "meaning":"হনুমান", "photoURL":"/public/flowers/burflower.png", "audioURL":""
+},
+    {
+   "id":27, "category":"animals/প্রাণী", "name":"mongoose", "meaning":"বেজী", "photoURL":"/public/flowers/burflower.png", "audioURL":""
+},
+    {
+   "id":28, "category":"animals/প্রাণী", "name":"fishing cat", "meaning":"মেছো বাঘ", "photoURL":"/flowers/water lily.png", "audioURL":""
+},
+    {
+   "id":29, "category":"animals/প্রাণী", "name":"otter", "meaning":"ভোদড়", "photoURL":"/public/flowers/burflower.png", "audioURL":""
+},
+{
+"id":30, "category":"animals/প্রাণী", "name":"turtle", "meaning":"কচ্ছপ", "photoURL":"/flowers/water lily.png", "audioURL":""
+},
+    {
+   "id":31, "category":"animals/প্রাণী", "name":"cow", "meaning":"গরু", "photoURL":"/public/flowers/burflower.png", "audioURL":""
+},   
+    {
+   "id":32, "category":"animals/প্রাণী", "name":"buffalo", "meaning":"মহিষ", "photoURL":"/flowers/water lily.png", "audioURL":""
+},  
+    {
+   "id":33, "category":"animals/প্রাণী", "name":"rhinoceros", "meaning":"গন্ডার", "photoURL":"/public/flowers/burflower.png", "audioURL":""
+},
+    {
+   "id":34, "category":"animals/প্রাণী", "name":"dolphin", "meaning":"ডলফিন", "photoURL":"/flowers/water lily.png", "audioURL":""
+},
+    {
+   "id":35, "category":"animals/প্রাণী", "name":"horse", "meaning":"ঘোড়া", "photoURL":"/public/flowers/burflower.png", "audioURL":""
+},
+    {
+   "id":36, "category":"animals/প্রাণী", "name":"danky", "meaning":"গাধা", "photoURL":"/flowers/water lily.png", "audioURL":""
+},
+    {
+   "id":37, "category":"animals/প্রাণী", "name":"camel", "meaning":"উট", "photoURL":"/public/flowers/burflower.png", "audioURL":""
+},
+    {
+   "id":38, "category":"animals/প্রাণী", "name":"goat", "meaning":"ছাগল", "photoURL":"/flowers/water lily.png", "audioURL":""
+},
+    {
+   "id":39, "category":"animals/প্রাণী", "name":"sheep", "meaning":"ভেড়া", "photoURL":"/public/flowers/burflower.png", "audioURL":""
+},  
+    {
+   "id":40, "category":"fish/মাছ", "name":"giant snakehead", "meaning":"শোল মাছ", "photoURL":"/flowers/water lily.png", "audioURL":""
+},
+    {
+   "id":41, "category":"fish/মাছ", "name":"??", "meaning":"বোয়াল মাছ", "photoURL":"/flowers/water lily.png", "audioURL":""
+}
+   
+]
