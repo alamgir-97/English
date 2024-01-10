@@ -1,0 +1,571 @@
+[
+    {
+      "id": 1,
+      "category": "small letters",
+      "name":"a",
+      "name2":"A",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 2,
+      "category": "small letters",
+      "name":"b",    
+      "name2":"B",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+
+    },
+    {
+      "id": 3,
+      "category": "small letters",
+      "name":"c",
+      "name2":"C",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 4,
+      "category": "small letters",
+      "name":"d",
+      "name2":"D",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 5,
+      "category": "small letters",
+      "name":"e",
+      "name2":"E",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 6,
+      "category": "small letters",
+      "name":"f",
+      "name2":"F",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 7,
+      "category": "small letters",
+      "name":"g",
+      "name2":"G",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 8,
+      "category": "small letters",
+      "name":"h",
+      "name2":"H",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 9,
+      "category": "small letters",
+      "name":"i",
+      "name2":"I",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 10,
+      "category": "small letters",
+      "name":"j",
+      "name2":"J",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 11,
+      "category": "small letters",
+      "name":"k",
+      "name2":"K",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 12,
+      "category": "small letters",
+      "name":"l",
+      "name2":"L",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 13,
+      "category": "small letters",
+      "name":"m",
+      "name2":"M",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 14,
+      "category": "small letters",
+      "name":"n",
+      "name2":"N",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 15,
+      "category": "small letters",
+      "name":"o",
+      "name2":"O",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 16,
+      "category": "small letters",
+      "name":"p",
+      "name2":"P",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 17,
+      "category": "small letters",
+      "name":"q",
+      "name2":"Q",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 18,
+      "category": "small letters",
+      "name":"r",
+      "name2":"R",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 19,
+      "category": "small letters",
+      "name":"s",
+      "name2":"S",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 20,
+      "category": "small letters",
+      "name":"t",
+      "name2":"T",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 21,
+      "category": "small letters",
+      "name":"u",
+      "name2":"U",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 22,
+      "category": "small letters",
+      "name":"v",
+      "name2":"V",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 23,
+      "category": "small letters",
+      "name":"w",
+      "name2":"W",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 24,
+      "category": "small letters",
+      "name":"x",
+      "name2":"X",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 25,
+      "category": "small letters",
+      "name":"y",
+      "name2":"Y",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 26,
+      "category": "small letters",
+      "name":"z",
+      "name2":"Z",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 1,
+      "category": "phonetic letters",
+      "name":"ɪ",
+      "name2":"pit",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 2,
+      "category": "phonetic letters",
+      "name":"e",
+      "name2":"pet",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 3,
+      "category": "phonetic letters",
+      "name":"æ",
+      "name2":"pat",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    }, 
+    {
+      "id": 4,
+      "category": "phonetic letters",
+      "name":"ʌ",
+      "name2":"cut",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },   
+    {
+      "id": 5,
+      "category": "phonetic letters",
+      "name":"ʊ",
+      "name2":"put",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 6,
+      "category": "phonetic letters",
+      "name":"ɒ",
+      "name2":"dog",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },    
+    {
+      "id": 7,
+      "category": "phonetic letters",
+      "name":"ə",
+      "name2":"about",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 8,
+      "category": "phonetic letters",
+      "name":"ɪː",
+      "name2":"week",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 9,
+      "category": "phonetic letters",
+      "name":"ɑː",
+      "name2":"hard",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 10,
+      "category": "phonetic letters",
+      "name":"ɔː",
+      "name2":"fork",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 11,
+      "category": "phonetic letters",
+      "name":"ɜː",
+      "name2":"heard",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 12,
+      "category": "phonetic letters",
+      "name":"uː",
+      "name2":"boot",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 13,
+      "category": "phonetic letters",
+      "name":"eɪ",
+      "name2":"",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 14,
+      "category": "phonetic letters",
+      "name":"aɪ",
+      "name2":"",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 15,
+      "category": "phonetic letters",
+      "name":"ɔɪ",
+      "name2":"",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 16,
+      "category": "phonetic letters",
+      "name":"əʊ",
+      "name2":"",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 17,
+      "category": "phonetic letters",
+      "name":"aʊ",
+      "name2":"",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 18,
+      "category": "phonetic letters",
+      "name":"ɪə",
+      "name2":"",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 19,
+      "category": "phonetic letters",
+      "name":"eə",
+      "name2":"",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 20,
+      "category": "phonetic letters",
+      "name":"ʊə",
+      "name2":"",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 21,
+      "category": "phonetic letters",
+      "name":"/p/",
+      "name2":"",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 22,
+      "category": "phonetic letters",
+      "name":"/b/",
+      "name2":"bin, rabbit",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 23,
+      "category": "phonetic letters",
+      "name":"/t/",
+      "name2":"",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 24,
+      "category": "phonetic letters",
+      "name":"/d/",
+      "name2":"",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 25,
+      "category": "phonetic letters",
+      "name":"/k/",
+      "name2":"cat, key, duck, queen, anchor, broccoli",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 26,
+      "category": "phonetic letters",
+      "name":"/g/",
+      "name2":"girl, digger, ghost",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 27,
+      "category": "phonetic letters",
+      "name":"/f/",
+      "name2":"",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 28,
+      "category": "phonetic letters",
+      "name":"/v/",
+      "name2":"",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 29,
+      "category": "phonetic letters",
+      "name":"/s/",
+      "name2":"",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 30,
+      "category": "phonetic letters",
+      "name":"/z/",
+      "name2":"",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 31,
+      "category": "phonetic letters",
+      "name":"/θ/",
+      "name2":"",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 32,
+      "category": "phonetic letters",
+      "name":"/ð/",
+      "name2":"",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 33,
+      "category": "phonetic letters",
+      "name":"/ʃ/",
+      "name2":"",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 34,
+      "category": "phonetic letters",
+      "name":"/ʒ/",
+      "name2":"",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 35,
+      "category": "phonetic letters",
+      "name":"/tʃ/",
+      "name2":"church, watch",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 36,
+      "category": "phonetic letters",
+      "name":"/dʒ/",
+      "name2":"jigsaw, giant, bridge",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 37,
+      "category": "phonetic letters",
+      "name":"/h/",
+      "name2":"hen, who",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 38,
+      "category": "phonetic letters",
+      "name":"/w/",
+      "name2":"",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 39,
+      "category": "phonetic letters",
+      "name":"/n/",
+      "name2":"",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 40,
+      "category": "phonetic letters",
+      "name":"/m/",
+      "name2":"",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 41,
+      "category": "phonetic letters",
+      "name":"/r/",
+      "name2":"",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 42,
+      "category": "phonetic letters",
+      "name":"/j/",
+      "name2":"",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 43,
+      "category": "phonetic letters",
+      "name":"/ŋ/",
+      "name2":"",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    },
+    {
+      "id": 44,
+      "category": "phonetic letters",
+      "name":"/l/",
+      "name2":"",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    }, 
+    {
+      "id": 45,
+      "category": "phonetic letters",
+      "name":"t̬",
+      "name2":"",
+      "audioURL": "/public/words/audio/cabbage.mp4",
+      "audioURL2": "/public/words/audio/cabbage.mp4"
+    }
+    ]

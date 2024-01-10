@@ -3,9 +3,9 @@
 const MeaningNavbar = () => {
     return (
         <div>
-            <div className="flex justify-center">    
-            <button className="mx-center px-4 py-2 border" title="here, there, over there">Meaning</button>
-            <button className="mx-center px-4 py-2 border">Meaning Changes on context change</button>
+            <div className="flex flex-wrap justify-center bg-gray-400 gap-1 p-2">    
+            <button className="mx-center px-2 font-semibold text-black border border-gray-600 rounded-lg hover:bg-rose-800 focus:border-b-rose-600 focus:border-b-2" title="here, there, over there">Meaning</button>
+            <button className="mx-center px-2 font-semibold text-black border border-gray-600 rounded-lg hover:bg-rose-800 focus:border-b-rose-600 focus:border-b-2">Meaning Changes on context change</button>
             </div> 
         </div>
     );

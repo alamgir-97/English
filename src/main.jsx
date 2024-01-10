@@ -2,8 +2,8 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import './index.css'
 import { RouterProvider } from 'react-router-dom'
-import AddCoffee from './components/AddCoffee.jsx'
-import UpdateCoffee from './components/UpdateCoffee.jsx'
+// import AddCoffee from './components/AddCoffee.jsx'
+// import UpdateCoffee from './components/UpdateCoffee.jsx'
 import Route from './Routes/Route';
 
 

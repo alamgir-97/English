@@ -89,7 +89,7 @@ const SyntaxNavbar = () => {
         <div>
           <div className='w-[90vw] h-[45vw] border flex justify-center mx-auto'>
                   <div className='w-[20vw] h-[45vw] overflow-y-scroll border'>
-                      <button className='w-[17vw] h-[6vh] border m-1 bg-amber-700 text-xs font-bold text-wrap text-left p-1'>Click button to see the description <br></br>Double click to watch the video</button>
+                      <button className='w-[17vw] h-[6vh] border m-1 bg-gray-400 text-xs font-bold text-wrap text-left p-1'>Click button to see the description <br></br>Double click to watch the video</button>
                       <button onClick={handleImg1} onDoubleClickCapture={handleVideo1} className='w-[17vw] h-[8vh] border m-3 bg-amber-400 font-bold'>Present Indefinite Tense</button>
                       <button onClick={handleImg2} onDoubleClickCapture={handleVideo2} className='w-[17vw] h-[8vh] border m-3 bg-amber-400 font-bold'>Present Continuous Tense</button>
                       <button onClick={handleImg3} onDoubleClickCapture={handleVideo3} className='w-[17vw] h-[8vh] border m-3 bg-amber-400 font-bold'>Present Perfect Tense</button>
@@ -131,44 +131,43 @@ const SyntaxNavbar = () => {
     return (
         <div>
             
-            <div className="flex flex-wrap justify-start bg-fuchsia-500">
-    <button className="mx-center px-4 py-2 border">Kinds of Sentence</button>
-    <div className="mx-center px-4 py-2 border bg-sky-300">
+            <div className="flex flex-wrap border justify-center bg-gray-400 gap-2 p-2">
+    <button className="mx-center px-2 font-semibold text-gray-200 border border-gray-200 rounded-lg hover:bg-rose-800 focus:border-b-rose-600 focus:border-b-2">Kinds of Sentence</button>
+    <button className="mx-center px-2 font-semibold text-gray-200 border border-gray-200 rounded-lg hover:bg-rose-800 focus:border-b-rose-600 focus:border-b-2">
           <NavLink
             to="/tense"
             className={({ isActive, isPending }) =>
               isPending
-                ? "text-black"
+                ? "text-gray-200"
                 : isActive
-                ? "text-rose-800 underline"
+                ? ""
                 : " "
             }
           >
             Tense
           </NavLink>
-        </div>
-    <button className="mx-center px-4 py-2 border">Voice</button>
-    <button className="mx-center px-4 py-2 border">Trasformation of Sentence</button>
-    <button className="mx-center px-4 py-2 border">Narration</button>
-    <button className="mx-center px-4 py-2 border">Conditional Sentence</button>
-    <button className="mx-center px-4 py-2 border">Mode</button>
-    <button className="mx-center px-4 py-2 border">Causative Sentence</button>        
-    <button className="mx-center px-4 py-2 border">Sentence with Modal Verb</button>      
+        </button>
+    <button className="mx-center px-2 font-semibold text-gray-200 border border-gray-200 rounded-lg hover:bg-rose-800 focus:border-b-rose-600 focus:border-b-2">Voice</button>
+    <button className="mx-center px-2 font-semibold text-gray-200 border border-gray-200 rounded-lg hover:bg-rose-800 focus:border-b-rose-600 focus:border-b-2">Trasformation of Sentences</button>
+    <button className="mx-center px-2 font-semibold text-gray-200 border border-gray-200 rounded-lg hover:bg-rose-800 focus:border-b-rose-600 focus:border-b-2">Narration</button>
+    <button className="mx-center px-2 font-semibold text-gray-200 border border-gray-200 rounded-lg hover:bg-rose-800 focus:border-b-rose-600 focus:border-b-2">Conditional Sentences</button>
+    <button className="mx-center px-2 font-semibold text-gray-200 border border-gray-200 rounded-lg hover:bg-rose-800 focus:border-b-rose-600 focus:border-b-2">Mode</button>
+    <button className="mx-center px-2 font-semibold text-gray-200 border border-gray-200 rounded-lg hover:bg-rose-800 focus:border-b-rose-600 focus:border-b-2">Causative Sentence</button>           
 
-    <div className="btn btn-sm btn-primary  mx-center p-2">
+    <button className="btn btn-sm btn-primary  mx-center p-2">
           <NavLink
-            to="/sentence"
+            to="/sentences"
             className={({ isActive, isPending }) =>
               isPending
-                ? "text-black"
+                ? "text-gray-200"
                 : isActive
-                ? "text-rose-800 underline"
+                ? " "
                 : " "
             }
           >
-            Sentence
+            Sentences
           </NavLink>
-        </div>
+        </button>
     
         </div>
       

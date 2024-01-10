@@ -107,6 +107,8 @@ const Pronouns = () => {
                   <span className="bg-gray-600 rounded-lg text-center px-8">her</span>
                   <span className="bg-gray-600 rounded-lg text-center px-8">it</span>
                   <span className="bg-gray-600 rounded-lg text-center px-8">them</span>                 
+                  <span className="bg-gray-600 rounded-lg text-center px-8">its</span>                 
+                  <span className="bg-gray-600 rounded-lg text-center px-8">theirs</span>                 
                 </p>
                     
               </div>

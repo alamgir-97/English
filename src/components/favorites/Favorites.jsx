@@ -1,7 +1,8 @@
 import { useEffect, useState } from "react";
 // import { Link } from "react-router-dom";
 //  import Word from './../words/Word';
-
+import EnglishNavbar from "../../English/English Header/EnglishNavbar";
+import MorphologyNavbar from "../../English/English Header/MorphologyNavbar";
 
 const Favorites = () => {
     const [favorites, setFavorites] = useState([]);
@@ -22,6 +23,8 @@ const Favorites = () => {
     console.log(favorites);
     return (
         <div>
+            <EnglishNavbar></EnglishNavbar>
+            <MorphologyNavbar></MorphologyNavbar>
          {favorites.map(favorite=><div className="gap-4 grid grid-cols-2" key={favorite.id}>
         <div className="border m-4 p-4 bi-yellow-500 w-96">
         <p className="border text-center text-4xl font-bold bg-green-500 w-fit mx-auto px-10">Id: {favorite.id}</p>
