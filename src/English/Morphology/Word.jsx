@@ -131,28 +131,28 @@ const Word = ({ word }) => {
           {meaning}
         </p> */}
   
-        <div className="flex mx-auto pt-2">
+        <div className="flex mx-auto pt-2 text-xs md:text-sm lg:text-base">
           <button
             onClick={handleMeaning}
-            className="text-center text-base font-semibold bg-blue-300 px-1 border mx-auto hover:bg-rose-600"
+            className="text-center font-semibold bg-blue-300 px-1 border mx-auto hover:bg-rose-600"
           >
             Meaning
           </button>
           <button
             onClick={handleArticle}
-            className="text-center text-base font-semibold bg-blue-300 px-1 border mx-auto hover:bg-rose-600"
+            className="text-center font-semibold bg-blue-300 px-1 border mx-auto hover:bg-rose-600"
           >
             Article
           </button>
           <button
             onClick={handleNumber}
-            className="text-center text-base font-semibold bg-blue-300 px-1 border mx-auto hover:bg-rose-600"
+            className="text-center font-semibold bg-blue-300 px-1 border mx-auto hover:bg-rose-600"
           >
             Number
           </button>
           <button
             onClick={handleGender}
-            className="text-center text-base font-semibold bg-blue-300 px-1 border mx-auto hover:bg-rose-600"
+            className="text-center font-semibold bg-blue-300 px-1 border mx-auto hover:bg-rose-600"
           >
             Gender
           </button>

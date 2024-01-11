@@ -18,6 +18,8 @@ import Vegetables from "./Vegetables";
 import Fruit from "./Fruit";
 import Flowers from "./Flowers";
 import VegetablesBN from "./VegetablesBN";
+import Footer from "../../components/Footer/Footer";
+import { NavLink } from "react-router-dom";
 
 
 const Vocabulary = () => {
@@ -366,8 +368,8 @@ const Vocabulary = () => {
   const handleVegetables = () => {
     setVideo(
       <div>
-      <div className="w-[75vw] h-[80vh] bg-green-600">
-          <h1 className="text-4xl font-bold text-center m-2">Vegetables/শাক-সবজি</h1>
+      <div className="w-[76vw] h-[70vh] bg-emerald-500 overflow-y-scroll">
+          <h1 className="text-4xl font-bold text-center sticky top-0 z-20 bg-emerald-600 py-3">Vegetables/শাক-সবজি</h1>          
             <Vegetables></Vegetables>
           </div>
        
@@ -544,15 +546,16 @@ const Vocabulary = () => {
 
   
   return (
-    <div>
-      <Helmet>
+    <div className="w-[96vw] h-[95vh] fixed left-[2vw]">
+      {/* <Helmet>
         <title>Morphology</title>
-      </Helmet>
-      <EnglishNavbar></EnglishNavbar>
+      </Helmet> */}
+      <div className=""><EnglishNavbar></EnglishNavbar></div>
+      
       <MorphologyNavbar></MorphologyNavbar>
       
       <div className="w-[100vw] h-[45vw] border flex justify-center mx-auto ">
-        <div className="w-[20vw] h-[45vw] overflow-y-scroll bg-gray-400 px-4">
+        <div className="w-[20vw] h-[70vh] grid grid-cols-1 bg-gray-400 px-4 overflow-y-scroll">
           
           <button
             onClick={handlePresentIndefiniteTense}
@@ -566,7 +569,7 @@ const Vocabulary = () => {
             onClick={handleVegetables}
             onDoubleClickCapture={handleVideo2}
             className="w-[17vw] h-[8vh] border border-rose-800 bg-gray-700 my-2 font-bold text-center text-yellow-500 text-lg hover:bg-rose-800 focus:border-rose-700 focus:border-b-4"
-            title="Vegetables"
+            title="Vegetables"            
           >
             Vegetables
           </button>
@@ -739,7 +742,7 @@ const Vocabulary = () => {
         </div>
         <div className="w-[80vw] h-[100vw] border">{video}</div>
       </div>
-      
+      <Footer></Footer>
     </div>
   );
 };

@@ -221,6 +221,20 @@ const EnglishNavbar = () => {
             Requirements
           </NavLink>
         </div>
+        <div className="mx-center px-2 py-2 rounded-lg text-lg text-white font-semibold hover:bg-rose-800 hover:font-bold">
+          <NavLink
+            to="/login"
+            className={({ isActive, isPending }) =>
+              isPending
+                ? "text-black"
+                : isActive
+                ? "text-gray-300  py-1 px-4 underline"
+                : ""
+            }
+          >
+            Login
+          </NavLink>
+        </div>
   
             <div >
               <button className="text-cyan-400 bg-gray-600 font-bold border px-2 hover:bg-rose-800 focus:underline">IELTS</button>

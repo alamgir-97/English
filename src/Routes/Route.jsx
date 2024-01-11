@@ -30,6 +30,8 @@ import Word from "./../English/Morphology/Word";
 import Requirements from "../Requirements/Requirements";
 import AlphabetComponent from "../English/Phonology/AlphabetComponent";
 import PhoneticAlphabet from "../English/Phonology/PhoneticAlphabet";
+import Vegetables from './../English/Morphology/mainVegetables';
+import Login from "../Login/Login";
 
 const Route = createBrowserRouter([
   {
@@ -158,7 +160,12 @@ const Route = createBrowserRouter([
   {
     path: "/phonology/phoneticAlphabet",
     element: <PhoneticAlphabet></PhoneticAlphabet>,
+  },  
+  {
+    path: "/login",
+    element: <Login></Login>,
   },
+  
 ]);
 
 export default Route;
