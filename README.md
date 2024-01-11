@@ -1,3 +1,8 @@
+# About the Website
+A website for the Bengali speaking people to assist them to learn English language easily, quickly and effectively with autonomy and freedom. 
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
